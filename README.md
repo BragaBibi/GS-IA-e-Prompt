@@ -1,5 +1,5 @@
 # GS-IA-e-Prompt
-# Mission Control AI — [Nome do Projeto]
+# Mission Control AI — [Órion Mission]
 
 # Integrantes 
  - Maria Beatriz Braga de Lima  — RM: 570501
@@ -25,6 +25,3 @@ Execute as células em ordem. O modelo Llama será instalado automaticamente.
 
 #Link de demonstração
 [Assistir ao vídeo] (https://youtu.be/Vg0Remwic7Q?si=CJIuQ_mJnSESiJL3)
-# Link do vídeo
-
-[Assistir ao vídeo] (
